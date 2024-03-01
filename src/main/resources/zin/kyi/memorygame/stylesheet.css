@@ -1,0 +1,31 @@
+.linear-grad-to-bottom{
+    -fx-background-color: linear-gradient(to bottom, #ff7f50, #6a5acd);
+}
+
+.linear-grad-to-top{
+    -fx-background-color: linear-gradient(to top, #ff7f50, #6a5acd);
+}
+
+.linear-grad-to-left{
+    -fx-background-color: linear-gradient(to left, #ff7f50, #6a5acd);
+}
+
+.linear-grad-to-right{
+    -fx-background-color: linear-gradient(to right, #ff7f50, #6a5acd);
+}
+
+.linear-grad-to-bottom-left{
+    -fx-background-color: linear-gradient(to bottom left, #ff7f50, #6a5acd);
+}
+
+.linear-grad-to-bottom-right{
+    -fx-background-color: linear-gradient(to bottom right, #ff7f50, #6a5acd);
+}
+
+.linear-grad-to-top-left{
+    -fx-background-color: linear-gradient(to top left, #ff7f50, #6a5acd);
+}
+
+.linear-grad-to-top-right{
+    -fx-background-color: linear-gradient(to top right, #ff7f50, #6a5acd);
+}
